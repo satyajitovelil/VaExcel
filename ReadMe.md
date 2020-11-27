@@ -5,7 +5,11 @@
 > of Vaex to load and filter a dataframe. Vaex works with huge tabular data, processes greater than 109 rows/
 > second and computes on the fly, without wasting ram.
 > You can find out more by clicking on: [Vaex info](https://vaex.readthedocs.io). 
-> 
+>
+> Load File Menu                                                                                       |  Paginated DataFrame                                                                                        |   Filter Menu
+> :---------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:
+> ![](https://github.com/satyajitovelil/VaExcel/blob/master/Preview/Images/VaexDash_LoadFileMenu.png)  |![](https://github.com/satyajitovelil/VaExcel/blob/master/Preview/Images/VaexDash_PaginatedDataFrame.png)|![](https://github.com/satyajitovelil/VaExcel/blob/master/Preview/Images/VaexDash_FilterMenu.png)
+>
 > The second notebook titled VaexPanel seeks to add Pandas-like filtering to a Panel app and make the  
 > filtering process more efficient. Both use Panel to create the apps. 
 > Panel is an open-source Python library that lets you create custom interactive web apps and dashboards
