@@ -10,3 +10,5 @@
 > filtering process more efficient. Both use Panel to create the apps. 
 > Panel is an open-source Python library that lets you create custom interactive web apps and dashboards
 > You can find out more by clicking on: [Panel info](https://panel.holoviz.org/index.html).
+>
+> ![Image of VaexPanel](https://github.com/satyajitovelil/VaExcel/blob/master/Preview/Images/VaexPanel_Preview.png)
